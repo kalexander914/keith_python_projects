@@ -1,4 +1,4 @@
-# keith_python_projects
+# Battleship
 keith_battleship_project
 
 In this project, we have a one-player version of the classic board game Battleship!
